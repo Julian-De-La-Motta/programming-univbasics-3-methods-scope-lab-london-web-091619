@@ -7,3 +7,7 @@ end
 def toadstool
   puts $status
 end
+
+def any_phrase(phrase)
+  puts "takes in an argument and puts out a catchphrase"
+  phraseout =_phrase()
