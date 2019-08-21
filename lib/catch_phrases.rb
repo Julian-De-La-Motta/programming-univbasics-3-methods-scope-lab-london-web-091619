@@ -13,9 +13,9 @@ puts "It's Dangerous To Go Alone! Take This."
 end
 
 def any_phrase(phrase)
- puts "takes in an argument and puts out a catchphrase"
-   puts "There's no time #{phrase}"
-  phraseout = "Do A Barrel Roll!"
-  puts phraseout
+ # puts "takes in an argument and puts out a catchphrase"
+ #  puts "There's no time #{phrase}"
+  phrase = "Do A Barrel Roll!"
+  puts phrase
 end
 
