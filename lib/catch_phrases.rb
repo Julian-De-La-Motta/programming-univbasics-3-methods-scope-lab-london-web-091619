@@ -14,4 +14,4 @@ def any_phrase(phrase)
   puts phraseout
 end
 
-any_phrase("It's Dangerous To Go Alone! Take This.")
+any_phrase('It's Dangerous To Go Alone! Take This.')
